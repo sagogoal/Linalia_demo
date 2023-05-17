@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6ff2c600.css","mappings":"AAAA,SAAS,iCAAiC,CAAC,kBAAkB,CAAC,YAAa,CAAC,eAAe,iCAAiC,CAAC,cAAe","sources":["Test.tsx"],"sourcesContent":[".smolhbg{background-color:var(--smolhbg-0);border-radius:16px;padding:10px;}.smolhbg:hover{background-color:var(--smolhbg-1);cursor:pointer;}\n"],"names":[],"sourceRoot":""}
