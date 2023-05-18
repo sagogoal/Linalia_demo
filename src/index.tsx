@@ -1,7 +1,5 @@
 import {SimpleButton} from './Test'
-import React from 'react';
+import { render } from "react-dom";
 
-const Button = () => {
-  return (<SimpleButton label={"Simple Button"} />)
-}
-export default Button;
+const rootElement = document.getElementById("root");
+render(<SimpleButton label={"Simple Button"} />, rootElement);
